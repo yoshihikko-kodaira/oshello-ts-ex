@@ -118,11 +118,12 @@
 
 
 .board {
-  background-color: green;
   display: flex;
   flex-wrap: wrap;
   width: 320px;
   height: 320px;
+  background-color: green;
+
   }
   
   .cell {
